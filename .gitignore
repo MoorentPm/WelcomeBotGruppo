@@ -1,0 +1,14 @@
+# Ambiente virtuale
+venv/
+.venv/
+
+# File di configurazione e credenziali segrete
+.env
+credentials.json
+
+# File di cache di Python
+__pycache__/
+*.pyc
+
+# File di configurazione di PyCharm
+.idea/
